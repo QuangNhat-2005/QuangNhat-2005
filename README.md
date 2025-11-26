@@ -5,7 +5,6 @@ Mình là sinh viên năm 3 chuyên ngành CNTT. Mình thích xây dựng các �
 
 📱 DỰ ÁN TIÊU BIỂU: LINGOQUEST
 Ứng dụng học từ vựng tiếng Anh theo phương pháp Lặp lại ngắt quãng (SRS)
-   Điểm số: 9.5/10 (Môn Lập trình thiết bị di động).
    Vai trò: Solo Developer.
    Công nghệ: React Native, MongoDB, NodeJS.
 
