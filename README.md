@@ -1,16 +1,33 @@
-Xin chào, mình là Cao Quang Nhật! 👋
-🚀 Lập trình viên Mobile (React Native) | Đam mê AI
-Mình là sinh viên năm 3 chuyên ngành CNTT. Mình thích xây dựng các ứng dụng di động có giao diện đẹp và trải nghiệm tốt, kết hợp sử dụng AI (Gemini, Vibe Coding) để tối ưu hiệu quả công việc.
-📱 DỰ ÁN TIÊU BIỂU: LINGOQUEST
-Ứng dụng học từ vựng tiếng Anh theo phương pháp Lặp lại ngắt quãng (SRS)
-Vai trò: Solo Developer.
-Công nghệ: React Native, MongoDB, NodeJS.
-📥 TRẢI NGHIỆM NGAY
-⬇️ TẢI FILE CÀI ĐẶT (.APK) TẠI ĐÂY
-📸 Giao diện thực tế (Screenshots)
-Trang chủ & Tiến độ	Thẻ học từ vựng	Minigame "Đấu trường"	Hồ sơ người dùng
-<img width="559" height="1219" alt="Image" src="https://github.com/user-attachments/assets/7496b20c-39c6-43a9-959d-2a0199a06914" />	<img width="559" height="1219" alt="Image" src="https://github.com/user-attachments/assets/f7dc6124-3a59-495b-ba19-3a22ed7c805a" />	<img width="559" height="1219" alt="Image" src="https://github.com/user-attachments/assets/662bbe6b-aa45-49bb-a3f7-f880a67994ea" />	<img width="559" height="1219" alt="Image" src="https://github.com/user-attachments/assets/991c7abf-f24c-4867-924d-fc2952509ea9" />
-⌚ DỰ ÁN BACKEND: LUXURY WATCH SHOP
-Website thương mại điện tử bán đồng hồ cao cấp
-Công nghệ: Java Servlets, MySQL, RESTful API.
-Mô tả: Xây dựng hệ thống API quản lý sản phẩm, đơn hàng và bảo mật người dùng.
+# Hi there, I'm Cao Quang Nhat! 👋
+### 🚀 Mobile Developer (React Native) | AI Enthusiast
+
+I'm a **2nd-year IT student** with a passion for building polished mobile apps that offer great user experiences. I leverage AI tools like **Gemini** (Vibe Coding) to optimize my workflow and solve problems efficiently.
+
+---
+
+## 📱 FEATURED PROJECT: LINGOQUEST
+**An English Vocabulary Learning App powered by Spaced Repetition System (SRS)**
+*   **Role:** Solo Developer.
+*   **Tech Stack:** React Native, MongoDB, NodeJS.
+*   **Key Features:** SRS Algorithm, Gamification, Audio Pronunciation.
+
+### 📥 TRY IT OUT
+> **[⬇️ DOWNLOAD DEMO APK HERE](https://drive.google.com/file/d/1OiY4wLpn0DrGyOmQijVH3CJlQdXNy1yB/view?usp=sharing)**
+
+### 📸 App Screenshots
+
+| Home & Progress | Flashcards | "Arena" Minigame | User Profile |
+|:---:|:---:|:---:|:---:|
+| <img width="200" alt="Home" src="https://github.com/user-attachments/assets/7496b20c-39c6-43a9-959d-2a0199a06914" /> | <img width="200" alt="Flashcards" src="https://github.com/user-attachments/assets/f7dc6124-3a59-49bb-a3f7-f880a67994ea" /> | <img width="200" alt="Game" src="https://github.com/user-attachments/assets/662bbe6b-aa45-49bb-a3f7-f880a67994ea" /> | <img width="200" alt="Profile" src="https://github.com/user-attachments/assets/991c7abf-f24c-4867-924d-2a0199a06914" /> |
+
+---
+
+## ⌚ BACKEND PROJECT: LUXURY WATCH SHOP
+**High-end Watch E-commerce Platform**
+*   **Tech Stack:** Java Servlets, MySQL, RESTful API.
+*   **Description:** Built a robust RESTful API system for product management, order processing, and secure user authentication.
+
+---
+
+### 📫 Connect with me
+*   📧 Email: caoquangnhat993@gmail.com
