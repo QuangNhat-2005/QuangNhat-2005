@@ -1,5 +1,5 @@
  Hi there, I'm Cao Quang Nhat! 👋
-### 🚀 Mobile Developer (React Native) | AI Enthusiast
+### 🚀 Mobile Developer (React Native) 
 
 I'm a 2nd-year IT student with a passion for building polished mobile apps that offer great user experiences. I leverage AI tools like Gemini/Claude (Vibe Coding) to optimize my workflow and solve problems efficiently.
 
