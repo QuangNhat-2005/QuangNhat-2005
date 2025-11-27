@@ -2,7 +2,7 @@ Hi there, I'm Cao Quang Nhat! 👋
 
 Mobile Developer (React Native) | AI Enthusiast
 
-I'm a third-year IT student with a passion for crafting mobile applications that combine beautiful interfaces with seamless user experiences. I actively leverage AI tools like Gemini and Vibe Coding to streamline my workflow and maximize productivity.
+I'm a third-year IT student with a passion for crafting mobile applications that combine beautiful interfaces with seamless user experiences. I actively leverage AI tools like Gemini/Claude and Vibe Coding to streamline my workflow and maximize productivity.
 
 FEATURED PROJECT: LINGOQUEST
 An English vocabulary learning app utilizing the Spaced Repetition System (SRS).
