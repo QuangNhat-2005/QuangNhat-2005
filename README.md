@@ -11,7 +11,7 @@ Role: Solo Developer.
 Technologies: React Native, MongoDB, NodeJS.
 
 📥 TRY IT NOW
-⬇️ DOWNLOAD THE INSTALLATION FILE (.APK) HERE (Bạn chèn link thực tế vào đây)
+⬇️ DOWNLOAD THE INSTALLATION FILE (.APK) HERE (https://drive.google.com/file/d/1OiY4wLpn0DrGyOmQijVH3CJlQdXNy1yB/view?usp=sharing)
 
 📸 Screenshots
 Below are actual screenshots of the application interface.
